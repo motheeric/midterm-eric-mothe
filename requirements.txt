@@ -1,0 +1,10 @@
+streamlit>=1.36
+numpy
+pandas
+scipy
+sympy
+plotly
+matplotlib
+yfinance
+openpyxl
+fpdf2
